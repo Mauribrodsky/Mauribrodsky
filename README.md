@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauro</h1>
-<h3 align="center">I like sports, rock music, video games and movies</h3>
+<h3 align="center">I like sports, rock music, video games and to know different cultures and countries</h3>
 
 - 🌱 I’m currently learning **Full stack development**
 
